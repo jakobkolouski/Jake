@@ -19,3 +19,4 @@ max_connections=50
 PATHTOAPP=$(realpath -q $APPNAME)
 @AT&T
 %Guizlar
+!san
