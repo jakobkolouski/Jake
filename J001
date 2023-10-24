@@ -19,3 +19,4 @@ PATHTOAPP=$(realpath -q $APPNAME
 $Blair
 #Williams
 $20
+!100%
